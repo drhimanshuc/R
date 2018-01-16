@@ -1,8 +1,5 @@
 ---
-title: 'CIND 123 - Assignment #3'
-output:
-  word_document: default
-  pdf_document: default
+ R codes for normal distribution, binomial distribution and poisson distribution
 ---
 
 This assignment questions make use of data that is provided by the
