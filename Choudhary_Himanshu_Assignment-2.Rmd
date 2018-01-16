@@ -1,10 +1,6 @@
 
 ---
-title: 'CIND 123 - Assignment #2'
-output:
-  word_document: default
-  pdf_document: default
-  html_document: default
+ R codes for loops, control statements, discrete distributions and plotting
 ---
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
@@ -110,7 +106,7 @@ There is one record in the data file for each migration stream. You can average 
 This data frame contains the following columns:
 -	Source: Province of origin (source). A factor with levels: ALTA, Alberta; BC, British Columbia; MAN, Manitoba; NB, New Brunswick; NFLD, New Foundland; NS, Nova Scotia; ONT, Ontario; PEI, Prince Edward Island; QUE, Quebec; SASK, Saskatchewan.
 -	Destination: Province of destination (1971 residence). A factor with levels: ALTA, Alberta; BC, British Columbia; MAN, Manitoba; NB, New Brunswick; NFLD, New Foundland; NS, Nova Scotia; ONT, Ontario; PEI, Prince Edward Island; QUE, Quebec; SASK, Saskatchewan.
--	Migrants: Number of migrants (from source to destination) in the period 1966�?1971.
+-	Migrants: Number of migrants (from source to destination) in the period 1966â€?1971.
 -	Distance: Distance (between principal cities of provinces): NFLD, St. John; PEI, Charlottetown; NS, Halifax; NB, Fredricton; QUE, Montreal; ONT, Toronto; MAN, Winnipeg; SASK, Regina; ALTA, Edmonton; BC, Vancouver.
 -	pops66: 1966 population of source province.
 -	pops71: 1971 population of source province.
