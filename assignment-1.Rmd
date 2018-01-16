@@ -1,5 +1,5 @@
 ---
-R codes for vectors and matrices,  lists, arrays and data frames and  Basic R functions 
+R codes for vectors, matrices, lists, arrays,  data frames and  Basic R functions 
 ---
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
