@@ -1,8 +1,5 @@
 ---
-title: 'CIND 123 - Assignment #4'
-output:
-  word_document: default
-  pdf_document: default
+ R codes for linear models and  correlation 
 ---
 
 This assignment makes use of pakcage "RCurl", accordingly carry out the following:
